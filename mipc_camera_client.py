@@ -1,6 +1,6 @@
-camera_ip = "192.168.1.197"
-camera_user = "1jfiegbqo356a"
-camera_password = "turbo54"
+camera_ip = "192.168.X.XXX" # IP Address inbetween ""  i.e. 192.168.1.123 or 10.0.0.1 etc
+camera_user = "XXXXXXXXXXXXX" # Username inbetween  "" i.e. MyUserName
+camera_password = "XXXXXXXX" # Password inbetween ""  i.e. "Password"
 
 from mipc_camera_client import MipcCameraClient
 
