@@ -14,4 +14,4 @@ RUN pip install flask mipc_camera_client
 EXPOSE 5000
 
 # Run the Python script
-CMD ["python", "mipc_api.py"]
+CMD ["python", "mipc_api_git.py"]
